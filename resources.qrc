@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>arrow_up.png</file>
+        <file>camera.PNG</file>
+        <file>zoom_in.png</file>
+        <file>zoom_out.png</file>
+        <file>camera1.png</file>
+        <file>camera2.png</file>
+    </qresource>
+</RCC>
